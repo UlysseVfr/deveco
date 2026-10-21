@@ -21,3 +21,5 @@ ax.grid(alpha=0.3)
 
 fig.savefig("charts/relative_income.png", dpi=150, bbox_inches="tight")
 plt.show()
+
+#Trial comment
